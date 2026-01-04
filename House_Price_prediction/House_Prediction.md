@@ -61,11 +61,3 @@ The Linear Regression model was successfully implemented and evaluated.
 Although the model performance is limited due to dataset characteristics,
 this project provides hands-on experience with regression modeling,
 evaluation metrics, and result interpretation.
-
----
-
-## ▶ How to Run
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
-
