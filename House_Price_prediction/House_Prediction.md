@@ -49,10 +49,12 @@ target variable representing house prices.
   Machine Learning pipeline rather than achieving high accuracy.
 
 ---
+## 📊 Model Evaluation Visualizations
 
-## 📊 Visualization
-An Actual vs Predicted price scatter plot is included to visually
-evaluate model performance.
+- Actual vs Predicted plot shows prediction accuracy.
+- Regression line explains the relationship between area and price.
+- Residual plot highlights prediction errors and model limitations.
+
 
 ---
 
