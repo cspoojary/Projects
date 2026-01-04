@@ -25,6 +25,7 @@ based on available features.
 ---
 
 ## 📊 Dataset
+- <a href = "(https://github.com/cspoojary/Projects/blob/main/House_Price_prediction/house_rent.xls)">Dataset</a>
 The dataset contains features related to house properties and a
 target variable representing house prices.
 
