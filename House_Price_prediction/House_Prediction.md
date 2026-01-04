@@ -48,9 +48,8 @@ target variable representing house prices.
 - This project emphasizes understanding the end-to-end
   Machine Learning pipeline rather than achieving high accuracy.
 - “Why is R² negative?”
-  > “The ML pipeline is correct, but the dataset has weak linear
-  > relationships. This project focuses on understanding regression,
-  > evaluation metrics, and visualization rather than maximizing accuracy.”
+  - The ML pipeline is correct, but the dataset has weak linear relationships.
+  - This project focuses on understanding regression, evaluation metrics, and visualization rather than maximizing accuracy.”
 
 ---
 ## 📊 Model Evaluation Visualizations
