@@ -1,11 +1,10 @@
-# House Price Prediction using Linear Regression
+# <a href = 'https://github.com/cspoojary/Projects/blob/main/House_Price_prediction/House_price_LR.ipynb'>House Price Prediction using Linear Regression</a>
 
 ## 📌 Project Overview
 This project demonstrates the complete Machine Learning workflow
 for predicting house prices using the Linear Regression algorithm.
 The focus is on understanding data preprocessing, model training,
 evaluation, and visualization.
-
 ---
 
 ## 🎯 Objective
