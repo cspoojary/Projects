@@ -8,7 +8,7 @@ The project demonstrates the complete machine learning workflow including data a
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze the impact of rainfall on crop yield
 - Build a predictive model using Linear Regression
 - Visualize data trends and prediction results
@@ -16,7 +16,7 @@ The project demonstrates the complete machine learning workflow including data a
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 The dataset consists of:
 - **Rainfall** – amount of rainfall received
 - **Yield** – crop yield produced
@@ -35,7 +35,7 @@ The data is split into training and testing sets to evaluate model performance.
 
 ---
 
-## 🧠 Machine Learning Model
+## Machine Learning Model
 - **Algorithm Used:** Linear Regression  
 - **Reason:** Simple and effective for understanding linear relationships between variables  
 - **Training:** Train-test split approach  
