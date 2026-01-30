@@ -1,6 +1,6 @@
 # 🌾 Crop Yield Prediction using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on predicting **crop yield** using a **Machine Learning model (Linear Regression)**.  
 It analyzes agricultural factors such as rainfall, fertilizer usage, and cultivated area to estimate crop production.
 
@@ -8,7 +8,7 @@ This project is designed for **learning and academic purposes** and demonstrates
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Understand the basics of Machine Learning
 - Implement Linear Regression for prediction
 - Analyze the relationship between agricultural factors and crop yield
@@ -16,7 +16,7 @@ This project is designed for **learning and academic purposes** and demonstrates
 
 ---
 
-## 🤖 Machine Learning Model
+## Machine Learning Model
 
 ### 🔹 Algorithm Used
 - **Linear Regression**
